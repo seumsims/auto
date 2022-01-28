@@ -130,5 +130,5 @@ dist
 .pnp.*
 
 # Puppeteer Screen Stot
-.jpg
-.png
+*.jpg
+*.png
