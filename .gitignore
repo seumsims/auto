@@ -132,3 +132,5 @@ dist
 # Puppeteer Screen Stot
 *.jpg
 *.png
+# zip ig
+*.zip
