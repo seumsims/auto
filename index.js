@@ -4,7 +4,7 @@ async function start() {
     const browser = await puppeteer.launch()
     const page = await browser.newPage()
     await page.goto("https://seumsims.github.io/test-req/")
-    await page.screenshot({ path: "screenshot2.jpg" })
+    await page.screenshot({ path: "screenshot4.jpg" })
     await browser.close() // if this code not written node will run untill somehow node stop
 }
 
